@@ -14,5 +14,4 @@
 | [Рекомендация тарифов мобильной связи](recommendation_of_mobile_communication_tariffs) | Создание модели машинного обучения для рекомендации тарифов мобильных операторов| *Pandas, Matplotlib, Seaborn, Scikit-learn* |
 | [Отток клиентов из банка](outflow_of_clients_from_the_bank) | Создание модели машинного обучения для предсказания оттока клиентов| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Imbalanced-learn* |
 | [Выбор локации для скважины](сhoosing_the_location_for_the_well) | Определение региона, где добыча принесёт наибольшую прибыль. Анализ возможной прибыль и рисков| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline* |
-| [Прогнозирование оттока клиентов](forecasting_customer_churn) | | *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline* |
-forecasting_customer_churn
+| [Прогнозирование оттока клиентов](forecasting_customer_churn) |Разработка системы предсказания отказа от брони | *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Imbalanced-learn, Phik, Pipeline* |
