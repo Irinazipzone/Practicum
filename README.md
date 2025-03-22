@@ -16,3 +16,4 @@
 | [Выбор локации для скважины](сhoosing_the_location_for_the_well) | Определение региона, где добыча принесёт наибольшую прибыль. Анализ возможной прибыль и рисков| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline* |
 | [Прогнозирование оттока клиентов](forecasting_customer_churn) |Разработка системы предсказания отказа от брони номера в отеле| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
 | [Сердечно-сосудистые заболевания](cardiovascular_diseases) |Разработка модели машинного обучения для предсказания сердечно-сосудистых заболеваний. Реализация в Streamlit| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
+| [Предсказание медианной стоимости жилья](spark) |Разработка модели машинного обучения для предсказания медианной стоимости жилья в жилом массиве Калифорнии. Реализация инструментами Spark| *Pandas, Matplotlib, PySpark* |
