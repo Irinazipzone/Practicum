@@ -17,3 +17,4 @@
 | [Прогнозирование оттока клиентов](forecasting_customer_churn) |Разработка системы предсказания отказа от брони номера в отеле| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
 | [Сердечно-сосудистые заболевания](cardiovascular_diseases) |Разработка модели машинного обучения для предсказания сердечно-сосудистых заболеваний. Реализация в Streamlit| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
 | [Предсказание медианной стоимости жилья](spark) |Разработка модели машинного обучения для предсказания медианной стоимости жилья в жилом массиве Калифорнии. Реализация инструментами Spark| *Pandas, Matplotlib, PySpark* |
+| [Планирование заказов такси](forecasting_taxi_orders) |Временные ряды. Разработка модели машинного обучения для планирования заказоа такси на ближайший час| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline, Statsmodels, CatBoost* |
