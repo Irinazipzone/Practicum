@@ -7,14 +7,14 @@
 </p><br>
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Аренда недвижимости в Санкт-Петербурге](real_estate_in_saint_petersburg) | Исследование объявлений о продаже квартир в г. Санкт-Петербург. Анализ признаков влияющих на цену объектов| *Ppandas, Matplotlib, NumPy* |
-| [Фильмы с государственной поддержкой](films_with_state_support) | Анализ рынка российского кинопроката и выявление текущих трендов. оценка интереса зрителя к фильмам с государственной поддержкой| *Pandas, Matplotlib, NumPy, Seaborn* |
-| [Рекомендация тарифов мобильной связи](recommendation_of_mobile_communication_tariffs) | Создание модели машинного обучения для рекомендации тарифов мобильных операторов| *Pandas, Matplotlib, Seaborn, Scikit-learn* |
-| [Отток клиентов из банка](outflow_of_clients_from_the_bank) | Создание модели машинного обучения для предсказания оттока клиентов| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Imbalanced-learn* |
-| [Выбор локации для скважины](сhoosing_the_location_for_the_well) | Определение региона, где добыча принесёт наибольшую прибыль. Анализ возможной прибыль и рисков| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline* |
-| [Прогнозирование оттока клиентов](forecasting_customer_churn) |Разработка системы предсказания отказа от брони номера в отеле| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
-| [Сердечно-сосудистые заболевания](cardiovascular_diseases) |Разработка модели машинного обучения для предсказания сердечно-сосудистых заболеваний. Реализация в Streamlit| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
-| [Предсказание медианной стоимости жилья](spark) |Разработка модели машинного обучения для предсказания медианной стоимости жилья в жилом массиве Калифорнии. Реализация инструментами Spark| *Pandas, Matplotlib, PySpark* |
-| [Планирование заказов такси](forecasting_taxi_orders) |Временные ряды. Разработка модели машинного обучения для планирования заказоа такси на ближайший час| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline, Statsmodels, CatBoost* |
+| № |Название проекта | Тип задачи | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- |:---------------------- |:---------------------- | :---------------------- |
+| 1 | [Аренда недвижимости в Санкт-Петербурге](real_estate_in_saint_petersburg) | Исследовательский анализ данных | Исследование объявлений о продаже квартир в г. Санкт-Петербург. Анализ признаков влияющих на цену объектов| *Ppandas, Matplotlib, NumPy* |
+| 2 | [Фильмы с государственной поддержкой](films_with_state_support) | Исследовательский анализ данных| Анализ рынка российского кинопроката и выявление текущих трендов. оценка интереса зрителя к фильмам с государственной поддержкой| *Pandas, Matplotlib, NumPy, Seaborn* |
+| 3 | [Рекомендация тарифов мобильной связи](recommendation_of_mobile_communication_tariffs) | Классификаци | Создание модели машинного обучения для рекомендации тарифов мобильных операторов| *Pandas, Matplotlib, Seaborn, Scikit-learn* |
+| 4 | [Отток клиентов из банка](outflow_of_clients_from_the_bank) | Классификаци | Создание модели машинного обучения для предсказания оттока клиентов| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Imbalanced-learn* |
+| 5 | [Выбор локации для скважины](сhoosing_the_location_for_the_well) | Регрессия | Определение региона, где добыча принесёт наибольшую прибыль. Анализ возможной прибыль и рисков| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline* |
+| 6 | [Прогнозирование оттока клиентов](forecasting_customer_churn) | Классификация | Разработка системы предсказания отказа от брони номера в отеле| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
+| 7 | [Сердечно-сосудистые заболевания](cardiovascular_diseases) | Классификаци | Разработка модели машинного обучения для предсказания сердечно-сосудистых заболеваний. Реализация в Streamlit| *Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn, Phik, Pipeline, GridSearchCV* |
+| 8 | [Предсказание медианной стоимости жилья](spark) | Регрессия | Разработка модели машинного обучения для предсказания медианной стоимости жилья в жилом массиве Калифорнии. Реализация инструментами Spark| *Pandas, Matplotlib, PySpark* |
+| 9 | [Планирование заказов такси](forecasting_taxi_orders) | Временные ряды | Разработка модели машинного обучения для планирования заказоа такси на ближайший час| *Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline, Statsmodels, CatBoost* |
