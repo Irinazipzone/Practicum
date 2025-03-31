@@ -12,7 +12,7 @@
     
 **Стек:**  Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline, Statsmodels, CatBoost
 
-**Модели:** лучайный лес, логистическая регрессия, CatBoost
+**Модели:** Cлучайный лес, логистическая регрессия, CatBoost
 
 **Метрика качества:** RMSE
 
