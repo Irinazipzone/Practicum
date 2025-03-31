@@ -6,7 +6,7 @@
 **Задачи:**  
 
     
-**Стек:**  Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline, Statsmodels, CatBoost
+**Стек:**  Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Pipeline, Phik, LightGBM, GridSearchCV
 
 **Модели:** Cлучайный лес, LightGBM
 
